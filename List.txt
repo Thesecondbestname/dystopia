@@ -1,0 +1,15 @@
+0 Du wachst auf. Was möchtest du tun?; Global
+	- 1) Waschen// 1 //;
+	- 2) Ration abholen//2;
+	- 3) Etwas lesen//3;
+	- 4) \u{1a7}\u{39b}\u{1103}\u{39b}\u{1103}\u{389}   \u{4e8}\u{429}\u{3a3}F \u{3a3}\u{42f}\u{39b}\u{1a7} \u{39b}MF\u{3a3}\u{42f}\u{3a3}\u{1a7}//4;
+	- 5) Rausgehen//5;
+
+1 Du wäschst dich. Das Wasser schmeckt schal. Du erinners dich, dass Leitungswasser trinken verboten wurde und spuckst den Rest aus.; Waschen
+- 1) Nocheinmal waschen//11;
+- 2) Aus dem Fenster schauen//12;
+
+11 Du wäschst dich nochmal. Dein Gesicht fühlt sich an als würde es brennen.;
+- 1) jhkv//111;
+
+2 Man g

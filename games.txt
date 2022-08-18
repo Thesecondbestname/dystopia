@@ -1,0 +1,4 @@
+/home/mattis/Documents/Coding/Rust/dystopia/List.txt
+/home/mattis/Documents/Coding/Rust/parserv2/List.txt
+oshhome/mattis/Documents/Coding/Rust/parserv2/List.txt
+/home/mattis/Documents/Coding/Rust/parserv2/List.txt
